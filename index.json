@@ -1,0 +1,143 @@
+{
+    "name": "Nonyelum Stella Iwuchukwu",
+    "contact": {
+      "email": "onwuchekwanonye@gmail.com"
+    },
+    "summary": "Highly motivated Software/Support Specialist with years of experience in systems, software, and technical support. Seeking opportunities in IT support, Cloud, and AI.",
+    "experience": [
+      {
+        "title": "Technical Support Specialist",
+        "company": "Foundever",
+        "dates": "09/2021 - Present",
+        "location": "Remote - Houston",
+        "responsibilities": [
+          "Provided on-call support to end-users, resolving technical issues and reducing ticket volume.",
+          "Assisted customers and call agents with technical issues, reducing customer support calls.",
+          "Troubleshot and resolved customers' technical issues promptly, improving task handling time.",
+          "Resolved firmware and MFA issues, ensuring customer access to accounts and device management.",
+          "Contributed to knowledge base and online technical documentation, improving customer success stories and reducing inbound calls.",
+          "Installed and configured hardware and software, providing guides for product usage."
+        ]
+      },
+      {
+        "title": "DevOps Engineer Intern",
+        "company": "Intellipaat",
+        "dates": "03/2023 - 10/2023",
+        "location": "Remote - Houston",
+        "responsibilities": [
+          "Contributed to the development and maintenance of tools and solutions related to deployment and the DevOps platform.",
+          "Managed and monitored environment reservation systems, adhering to best practices.",
+          "Monitored application and infrastructure stability and reliability, identifying issues early and collaborating for resolutions.",
+          "Expanded skills and knowledge through online training in provisioning and configuration of virtual servers and other relevant technologies."
+        ]
+      },
+      {
+        "title": "IT Trainer",
+        "company": "Pearls Africa",
+        "dates": "02/2018 - 09/2021",
+        "location": "Remote - Lagos",
+        "responsibilities": [
+          "Collaborated to develop a curriculum covering basic to intermediate web development.",
+          "Led trainees in building full-stack applications and successful deployment.",
+          "Managed and mentored non-technical trainees in web development using agile methodologies.",
+          "Led a team of trainees to successfully complete a major IT project."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Sc. in Mathematics",
+        "institution": "Anambra State University Uli",
+        "graduationDate": "10/2012"
+      },
+      {
+        "degree": "PG Cloud Computing",
+        "institution": "Bellhaven University Mississippi",
+        "graduationDate": "01/2024"
+      }
+    ],
+    "skills": [
+      "AWS Cloud",
+      "Microsoft Azure",
+      "CI/CD",
+      "CRM",
+      "SaaS",
+      "GCP",
+      "Powershell",
+      "Microsoft Windows OS Configurations",
+      "CSS",
+      "Fast learner",
+      "MS Office",
+      "Salesforce",
+      "Docker",
+      "Jira",
+      "HTML",
+      "GIT",
+      "CSS",
+      "SDLC",
+      "Installation",
+      "JavaScript",
+      "Linux",
+      "Mac OS",
+      "DNS",
+      "Slack",
+      "SQL",
+      "Microsoft Office 365",
+      "Slack",
+      "Active Directory",
+      "JSON",
+      "node.js",
+      "Python",
+      "Compassion",
+      "REST API",
+      "Learning Agility",
+      "Problem Solving",
+      "Adaptability",
+      "Good Communication",
+      "Patience"
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Solutions Architect",
+        "authority": "Amazon Web Services"
+      },
+      {
+        "name": "Cloud Practitioner",
+        "authority": "Amazon Web Services"
+      }
+    ],
+    "volunteering": [
+      {
+        "organization": "WorkFaith",
+        "dates": "07/2021 - Present",
+        "responsibilities": [
+          "Assisted in IT and technical activities, providing reliable technical backup for trainees."
+        ]
+      }
+    ],
+    "achievements": [
+      {
+        "description": "Trained over 200 Girls and Ladies on Web Development."
+      },
+      {
+        "description": "Transformed the lives of young women into productive and resourceful individuals in STEM and Tech related roles/activities."
+      }
+    ],
+    "strengths": [
+      {
+        "category": "Customer Success Skills",
+        "description": "Ability to provide swift and positive solutions to clients, strong communication skills, both verbal and written, with the ability to demonstrate empathy, compassion, patience, and professionalism."
+      },
+      {
+        "category": "Problem-Solving Skills",
+        "description": "Strong analytical and problem-solving abilities to address complex technical challenges faced by customers. This includes the ability to systematically diagnose issues, research solutions, and implement effective troubleshooting steps."
+      }
+    ]
+  }
+  
